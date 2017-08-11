@@ -1,3 +1,5 @@
+# TriageApp
+
 TriageApp is an Android application used by physicians and nurses to collect patient information and perform triage for patients who arrive at the hospital emergency room (ER). It was created for a course, CSC207: Software Design. 
 
 ----------------------------------------------------------------------------------------------------------------
